@@ -22,7 +22,10 @@
 <a href="https://fb.com/princenitian" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="princenitian" height="30" width="40" /></a>
 <a href="https://instagram.com/im_princeraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="im_princeraj" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/im_princeraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="im_princeraj" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/princeraj427" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="im_princeraj" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/princeraj427" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="princeraj427" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/im_princeraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="im_princeraj" height="30" width="40" /></a>
+
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
