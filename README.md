@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Speech Emotion Detection**
 
-- 🌱 I’m currently learning **Deep Learning, AWS.**
+- 🌱 I’m currently learning **Deep Learning.**
 
 - 👨‍💻 All of my projects are available at [http://www.prince.learnbyexample.in](http://www.prince.learnbyexample.in)
 
