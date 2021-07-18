@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princenitian&label=Profile%20views&color=0e75b6&style=flat" alt="princenitian" /> </p>
 
-- 🔭 I’m currently working on **Speech Emotion Detection**
+- 🔭 I’m currently working on **30-Days-Of-JavaScript Challenge.**
 
-- 🌱 I’m currently learning **Deep Learning.**
+- 🌱 I’m currently learning **competitive coding.**
 
 - 👨‍💻 All of my projects are available at [http://www.prince.learnbyexample.in](http://www.prince.learnbyexample.in)
 
