@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princenitian&label=Profile%20views&color=0e75b6&style=flat" alt="princenitian" /> </p>
 
-- 🔭 I’m currently working on **30-Days-Of-JavaScript Challenge and some open challenges in Smart Infrastructure, Heathcare and Agriculture.**
+- 🔭 I’m currently working on **30-Days-Of-JavaScript Challenge and some open challenges in Smart Infrastructure, Healthcare and Agriculture.**
 
 - 🌱 I’m currently learning **competitive coding and system design.**
 
