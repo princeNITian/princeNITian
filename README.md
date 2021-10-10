@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **competitive coding and system design.**
 
-- 👨‍💻 All of my projects are available at [Here](http://www.princenitian.github.io)
+- 👨‍💻 All of my projects are available at [Here](https://princenitian.github.io)
 
 - 📝 I regularly write articles on [http://www.jsvidya.blogspot.com](http://www.jsvidya.blogspot.com)
 
