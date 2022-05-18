@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [Here](https://princenitian.github.io)
 
-- 📝 I regularly write articles on [http://www.jsvidya.blogspot.com](http://www.jsvidya.blogspot.com)
+- 📝 I often write articles on [http://www.jsvidya.blogspot.com](http://www.jsvidya.blogspot.com)
 
 - 📫 How to reach me **iamprinceraj@yahoo.com**
 
