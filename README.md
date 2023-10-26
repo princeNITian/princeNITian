@@ -14,7 +14,7 @@
 
 - 📝 I often write articles on [http://www.jsvidya.blogspot.com](http://www.jsvidya.blogspot.com)
 
-- 📫 How to reach me **iamprinceraj@yahoo.com**
+- 📫 How to reach me **praj.nitskm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
